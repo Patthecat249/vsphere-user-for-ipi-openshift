@@ -1,0 +1,1 @@
+# vsphere-user-for-ipi-openshift
